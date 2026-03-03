@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#ff6b35"/>
+      <stop offset="50%" style="stop-color:#f7931e"/>
+      <stop offset="100%" style="stop-color:#ffb347"/>
+    </linearGradient>
+    <linearGradient id="bolt" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#ffffff"/>
+      <stop offset="100%" style="stop-color:#fff5e6"/>
+    </linearGradient>
+  </defs>
+  <rect width="120" height="120" rx="28" fill="url(#bg)"/>
+  <!-- Lightning bolt / active symbol -->
+  <path d="M68 20 L48 55 L62 55 L52 100 L82 50 L66 50 Z" fill="url(#bolt)" opacity="0.95"/>
+  <!-- Small person running silhouette -->
+  <circle cx="34" cy="42" r="6" fill="white" opacity="0.85"/>
+  <path d="M28 52 Q34 60 40 52 M30 54 L26 68 M38 54 L42 68 M26 68 L22 78 M26 68 L32 78 M42 68 L38 78 M42 68 L48 78" stroke="white" stroke-width="2.5" fill="none" stroke-linecap="round" opacity="0.85"/>
+</svg>

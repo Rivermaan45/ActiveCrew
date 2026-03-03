@@ -1,0 +1,222 @@
+[
+  {
+    "sport": "Tennis",
+    "level": "weekly",
+    "title": "Casual Singles Rally",
+    "location": "Tompkins Square Courts",
+    "neighborhood": "East Village",
+    "day": "Tuesday",
+    "timeStart": "18:00",
+    "timeEnd": "19:30",
+    "spotsTotal": 6
+  },
+  {
+    "sport": "Tennis",
+    "level": "experienced",
+    "title": "Competitive Hitting Session",
+    "location": "Central Park Courts",
+    "neighborhood": "Central Park",
+    "day": "Saturday",
+    "timeStart": "09:00",
+    "timeEnd": "10:30",
+    "spotsTotal": 4
+  },
+  {
+    "sport": "Tennis",
+    "level": "training",
+    "title": "Match Play \u2014 NTRP 4.5+",
+    "location": "Riverside Tennis",
+    "neighborhood": "Upper West Side",
+    "day": "Sunday",
+    "timeStart": "08:00",
+    "timeEnd": "10:00",
+    "spotsTotal": 4
+  },
+  {
+    "sport": "Running",
+    "level": "weekly",
+    "title": "Hudson River Path Run",
+    "location": "Chelsea Piers",
+    "neighborhood": "West Village",
+    "day": "Wednesday",
+    "timeStart": "07:00",
+    "timeEnd": "08:00",
+    "spotsTotal": 6
+  },
+  {
+    "sport": "Running",
+    "level": "training",
+    "title": "Central Park Tempo Run",
+    "location": "Engineers' Gate",
+    "neighborhood": "Upper East Side",
+    "day": "Tuesday",
+    "timeStart": "06:30",
+    "timeEnd": "07:30",
+    "spotsTotal": 6
+  },
+  {
+    "sport": "Running",
+    "level": "recreational",
+    "title": "Easy Brooklyn Bridge Jog",
+    "location": "Brooklyn Bridge",
+    "neighborhood": "DUMBO",
+    "day": "Saturday",
+    "timeStart": "09:00",
+    "timeEnd": "10:00",
+    "spotsTotal": 4
+  },
+  {
+    "sport": "Running",
+    "level": "experienced",
+    "title": "Prospect Park Long Run",
+    "location": "Grand Army Plaza",
+    "neighborhood": "Prospect Park",
+    "day": "Sunday",
+    "timeStart": "08:00",
+    "timeEnd": "09:30",
+    "spotsTotal": 6
+  },
+  {
+    "sport": "Bouldering",
+    "level": "weekly",
+    "title": "Bouldering Session",
+    "location": "Brooklyn Boulders",
+    "neighborhood": "Gowanus",
+    "day": "Thursday",
+    "timeStart": "18:00",
+    "timeEnd": "20:00",
+    "spotsTotal": 6
+  },
+  {
+    "sport": "Bouldering",
+    "level": "experienced",
+    "title": "Project Session V4\u2013V6",
+    "location": "The Cliffs LIC",
+    "neighborhood": "Long Island City",
+    "day": "Saturday",
+    "timeStart": "11:00",
+    "timeEnd": "13:00",
+    "spotsTotal": 6
+  },
+  {
+    "sport": "Gym",
+    "level": "weekly",
+    "title": "Upper Body Push Day",
+    "location": "Equinox Flatiron",
+    "neighborhood": "Flatiron",
+    "day": "Monday",
+    "timeStart": "07:00",
+    "timeEnd": "08:15",
+    "spotsTotal": 6
+  },
+  {
+    "sport": "Gym",
+    "level": "training",
+    "title": "Hyrox Prep Workout",
+    "location": "CrossFit Williamsburg",
+    "neighborhood": "Williamsburg",
+    "day": "Wednesday",
+    "timeStart": "18:00",
+    "timeEnd": "19:30",
+    "spotsTotal": 4
+  },
+  {
+    "sport": "Gym",
+    "level": "weekly",
+    "title": "Leg Day Partner Workout",
+    "location": "Lifetime Fitness",
+    "neighborhood": "Flatiron",
+    "day": "Friday",
+    "timeStart": "17:30",
+    "timeEnd": "19:00",
+    "spotsTotal": 6
+  },
+  {
+    "sport": "Swimming",
+    "level": "weekly",
+    "title": "Lap Swim",
+    "location": "McCarren Pool",
+    "neighborhood": "Greenpoint",
+    "day": "Monday",
+    "timeStart": "07:00",
+    "timeEnd": "08:00",
+    "spotsTotal": 6
+  },
+  {
+    "sport": "Swimming",
+    "level": "training",
+    "title": "Open Water Swim",
+    "location": "Coney Island Beach",
+    "neighborhood": "Coney Island",
+    "day": "Saturday",
+    "timeStart": "07:00",
+    "timeEnd": "08:30",
+    "spotsTotal": 4
+  },
+  {
+    "sport": "Cycling",
+    "level": "weekly",
+    "title": "Brooklyn Bridge to Prospect Park",
+    "location": "Brooklyn Bridge",
+    "neighborhood": "Brooklyn Heights",
+    "day": "Sunday",
+    "timeStart": "08:00",
+    "timeEnd": "10:00",
+    "spotsTotal": 4
+  },
+  {
+    "sport": "Cycling",
+    "level": "training",
+    "title": "Palisades Ride \u2014 50 miles",
+    "location": "GW Bridge",
+    "neighborhood": "Washington Heights",
+    "day": "Saturday",
+    "timeStart": "06:30",
+    "timeEnd": "10:00",
+    "spotsTotal": 6
+  },
+  {
+    "sport": "Yoga",
+    "level": "weekly",
+    "title": "Morning Vinyasa Flow",
+    "location": "Prospect Park",
+    "neighborhood": "Prospect Park",
+    "day": "Sunday",
+    "timeStart": "08:00",
+    "timeEnd": "09:00",
+    "spotsTotal": 6
+  },
+  {
+    "sport": "Yoga",
+    "level": "experienced",
+    "title": "Power Yoga Session",
+    "location": "Y7 Studio",
+    "neighborhood": "Williamsburg",
+    "day": "Thursday",
+    "timeStart": "18:30",
+    "timeEnd": "19:30",
+    "spotsTotal": 6
+  },
+  {
+    "sport": "Basketball",
+    "level": "weekly",
+    "title": "Pickup Basketball",
+    "location": "The Cage",
+    "neighborhood": "West 4th Street",
+    "day": "Wednesday",
+    "timeStart": "18:00",
+    "timeEnd": "19:30",
+    "spotsTotal": 5
+  },
+  {
+    "sport": "Basketball",
+    "level": "experienced",
+    "title": "Full Court 5v5 Runs",
+    "location": "Rucker Park",
+    "neighborhood": "Harlem",
+    "day": "Saturday",
+    "timeStart": "10:00",
+    "timeEnd": "12:00",
+    "spotsTotal": 5
+  }
+]
